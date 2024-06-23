@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpublic_react_gitweb=self.webpackChunkpublic_react_gitweb||[]).push([[264],{7264:(c,e,i)=>{c.exports=i.p+"static/media/mongolia_citypic.f2a5eccc2384a3d93c01.jpeg"}}]);

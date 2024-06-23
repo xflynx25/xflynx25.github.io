@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpublic_react_gitweb=self.webpackChunkpublic_react_gitweb||[]).push([[852],{852:(e,c,t)=>{e.exports=t.p+"static/media/Armut_parameter_sweep.172ccc157f71e8c721c1.PNG"}}]);

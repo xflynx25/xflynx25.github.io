@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpublic_react_gitweb=self.webpackChunkpublic_react_gitweb||[]).push([[410],{6410:(e,a,c)=>{e.exports=c.p+"static/media/splash_teaching.9b99e9aa0060a092db9c.jpg"}}]);

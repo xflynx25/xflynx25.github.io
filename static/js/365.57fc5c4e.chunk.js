@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpublic_react_gitweb=self.webpackChunkpublic_react_gitweb||[]).push([[365],{7365:(c,e,a)=>{c.exports=a.p+"static/media/mongolia_classroom.333cec088c794353a450.jpg"}}]);
